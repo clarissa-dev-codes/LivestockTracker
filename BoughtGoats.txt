@@ -1,0 +1,9 @@
+***
+Goat ID: 3111000
+Name:Dale
+Breed:Nigerian Dwarf
+GenderBilly
+Sold =False
+BirthUnknown
+Status:Alive
+***

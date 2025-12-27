@@ -1,0 +1,25 @@
+***
+Goat ID: 3111000
+Name:    Huey
+Breed:    Nigerian Dwarf
+Gender Billy
+Sold = False
+Birth Date: Unknown
+Status:    Alive
+***
+Goat ID: 3111001
+Name:    Dewey
+Breed:    Nigerian Dwarf
+Gender Billy
+Sold = False
+Birth Date: Unknown
+Status:    Alive
+***
+Goat ID: 3111002
+Name: Louie
+Breed: Nigerian Dwarf
+Gender Billy
+Sold = True
+Birth Date: Unknown
+Status: Alive
+***

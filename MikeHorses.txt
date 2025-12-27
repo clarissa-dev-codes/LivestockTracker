@@ -1,0 +1,28 @@
+***
+Horse ID: 4111001
+Name: Dollys High Brow CD
+Breed: Quarter Horse
+Gender: Stud
+Location: Mike's
+Sold = False
+Birth Date: 5/29/2013
+Status: Alive
+***
+Horse ID: 4121002
+Name: Rey Banz Cat
+Breed: Quarter Horse
+Gender: Mare
+Location: Mike's
+Sold = False
+Birth Date: 5/4/2014
+Status: Alive
+***
+Horse ID: 4131003
+Name: Xtra Smart Rey
+Breed: Quarter Horse
+Gender: Gelding
+Location: Mike's
+Sold = False
+Birth Date: 4/27/2009
+Status: Alive
+***

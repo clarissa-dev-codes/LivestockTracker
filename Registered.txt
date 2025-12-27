@@ -1,0 +1,9 @@
+***
+Cow ID: 2111001
+Breed: Black Angus
+Gender: Bull
+Sold = False
+Birthdate = 05/23/2020
+Status: Alive
+Registered: True
+***

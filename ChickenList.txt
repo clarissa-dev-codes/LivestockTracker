@@ -1,0 +1,100 @@
+***
+Chicken ID: 1112001
+Name: Major Lookout
+Breed: Rhode Island Red
+Gender: Hen
+Color Band: Green
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1113002
+Name: Henny
+Breed: Rhode Island Red
+Gender: Hen
+Color Band: Yellow
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1114003
+Name: Little Red
+Breed: Rhode Island Red
+Gender: Hen
+Color Band: Red
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1311004
+Name: Foggy
+Breed: Foghorn Leghorn
+Gender: Hen
+Color Band: Purple
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1312005
+Name: Henrietta
+Breed: Foghorn Leghorn
+Gender: Hen
+Color Band: Green
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1313006
+Name: Lemonade
+Breed: Foghorn Leghorn
+Gender: Hen
+Color Band: Yellow
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1314007
+Name: Marshmellow
+Breed: Foghorn Leghorn
+Gender: Hen
+Color Band: Red
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1411008
+Name: Mocha
+Breed: Black Sexlings
+Gender: Hen
+Color Band: Purple
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1412009
+Name: Houdini
+Breed: Black Sexlings
+Gender: Hen
+Color Band: Green
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1413010
+Name: Blaze
+Breed: Black Sexlings
+Gender: Hen
+Color Band: Yellow
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***
+Chicken ID: 1414011
+Name: Shadow
+Breed: Black Sexlings
+Gender: Hen
+Color Band: Red
+Sold = False
+BirthDate = 3/29/2023
+Status: Alive
+***

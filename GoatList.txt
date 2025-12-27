@@ -1,0 +1,81 @@
+***
+Goat ID: 3111002
+Name:   Louie
+Breed:   Nigerian Dwarf
+Gender Billy
+Sold = False
+Birth Date: Unknown
+Status:   Alive
+***
+Goat ID: 3121003
+Name:   Daisy
+Breed:   Nigerian Dwarf
+Gender Nanny
+Sold = False
+Birth Date: Unknown
+Status:   Alive
+***
+Goat ID: 3121004
+Name:   Belle
+Breed:   Nigerian Dwarf
+Gender Nanny
+Sold = False
+Birth Date: Unknown
+Status:   Alive
+***
+Goat ID: 3111005
+Name: Chip
+Breed: Nigerian Dwarf
+Gender Billy
+Sold = False
+Birth Date: Unknown
+Status: Alive
+***
+Goat ID: 3111006
+Name: Dale
+Breed: Nigerian Dwarf
+Gender Billy
+Sold = False
+Birth Date: Unknown
+Status: Alive
+***
+Goat ID: 3122007
+Name: Unknown 1
+Breed: Nigerian Dwarf
+Gender Nanny
+Sold = False
+Birth Date: 08/26/2025
+Status: Alive
+***
+Goat ID: 3122008
+Name: Unknown 2
+Breed: Nigerian Dwarf
+Gender Nanny
+Sold = False
+Birth Date: 08/26/2025
+Status: Alive
+***
+Goat ID: 3112009
+Name: Harry
+Breed: Nigerian Dwarf
+Gender Billy
+Sold = False
+Birth Date: 08/26/2025
+Status: Alive
+***
+Goat ID: 3312003
+Name:Olaf
+Breed:Nigerian Drawf
+GenderBilly
+Sold =False
+Birth08/28/2025
+Status:Alive
+***
+Goat ID: 3112000
+Name:Figaro
+Breed:Nigerian Dwarf
+GenderBilly
+Sold =False
+Birth08/28/2025
+Status:Alive
+***

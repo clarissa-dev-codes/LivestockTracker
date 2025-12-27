@@ -1,0 +1,17 @@
+***
+Goat ID: 3312003
+Name:Olaf
+Breed:Nigerian Drawf
+GenderBilly
+Sold =False
+Birth08/28/2025
+Status:Alive
+***
+Goat ID: 3112000
+Name:Figaro
+Breed:Nigerian Dwarf
+GenderBilly
+Sold =False
+Birth08/28/2025
+Status:Alive
+***
